@@ -3,8 +3,10 @@ This plugin counts up to a number of your choosing during a certain interval of 
 
 ## Usage:
 Html:
+
     <span id="my-counter">430</span>
 
 JavaScript:
+
     $('#my-counter').countUp();
 	
