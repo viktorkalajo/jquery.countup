@@ -4,6 +4,9 @@ This plugin counts up to a number of your choosing during a certain interval of 
 ## Usage:
 Html:
 
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="jquery.count-up.js"></script>
+
     <span id="my-counter">430</span>
 
 JavaScript:

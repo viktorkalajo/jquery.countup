@@ -33,7 +33,7 @@
 
  	$.fn.countUp.defaults =  {
 		start					: 0, 		// where to start counter
-		target				: null, // what number to count to
+		target				: null, // what number to count to (if null, it takes the content of the element)
 	 	duration			: 1000, // how many ms the count should take
 	 	interval			: 30, 	// how frequent the counter should update, in ms
 		onCounterDone	: function() {},
